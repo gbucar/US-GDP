@@ -1,3 +1,2 @@
 # US-GDP
-This website shows US GDP over time. 
-It's useless.
+This website shows US GDP over time. https://gbucar.github.io/US-gdp/
